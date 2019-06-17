@@ -1,0 +1,29 @@
+{
+  "legoPage": [
+    {
+      "creator": "Alex",
+      "color": "1",
+      "id": 1
+    },
+    {
+      "creator": "Danny",
+      "color": "2",
+      "id": 2
+    },
+    {
+      "creator": "Matthew",
+      "color": "2",
+      "id": 3
+    },
+    {
+      "creator": "Jennifer",
+      "color": "orange",
+      "id": 4
+    },
+    {
+      "creator": "Jennifer",
+      "color": "orange",
+      "id": 5
+    }
+  ]
+}
